@@ -1,12 +1,12 @@
-#Quick demo
+# Quick demo
 
-##Before adding a person:
+## Before adding a person
 
-![text](/Users/liuxiaohui/Desktop/ReactPractices/job-management/screenshots/before.png)
+![before](https://github.com/Ergouzii/Job-Management/blob/master/screenshots/before.png)
 
-## After:
+## After
 
-![after](/Users/liuxiaohui/Desktop/ReactPractices/job-management/screenshots/after.png)
+![after](https://github.com/Ergouzii/Job-Management/blob/master/screenshots/after.png)
 
 ---
 
