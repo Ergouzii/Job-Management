@@ -1,3 +1,15 @@
+#Quick demo
+
+##Before adding a person:
+
+![text](/Users/liuxiaohui/Desktop/ReactPractices/job-management/screenshots/before.png)
+
+## After:
+
+![after](/Users/liuxiaohui/Desktop/ReactPractices/job-management/screenshots/after.png)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
